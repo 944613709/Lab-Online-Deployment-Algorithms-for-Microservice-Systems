@@ -1,0 +1,92 @@
+{
+    "0": {
+        "1": {
+            "delay": 2,
+            "bandwidth": 100
+        },
+        "2": {
+            "delay": 3,
+            "bandwidth": 100
+        },
+        "3": {
+            "delay": 4,
+            "bandwidth": 50
+        },
+        "4": {
+            "delay": 7,
+            "bandwidth": 100
+        }
+    },
+    "1": {
+        "0": {
+            "delay": 2,
+            "bandwidth": 100
+        },
+        "2": {
+            "delay": 7,
+            "bandwidth": 50
+        },
+        "3": {
+            "delay": 2,
+            "bandwidth": 50
+        },
+        "4": {
+            "delay": 3,
+            "bandwidth": 50
+        }
+    },
+    "2": {
+        "0": {
+            "delay": 3,
+            "bandwidth": 100
+        },
+        "1": {
+            "delay": 7,
+            "bandwidth": 50
+        },
+        "3": {
+            "delay": 5,
+            "bandwidth": 100
+        },
+        "4": {
+            "delay": 9,
+            "bandwidth": 1000
+        }
+    },
+    "3": {
+        "0": {
+            "delay": 4,
+            "bandwidth": 50
+        },
+        "1": {
+            "delay": 2,
+            "bandwidth": 50
+        },
+        "2": {
+            "delay": 5,
+            "bandwidth": 100
+        },
+        "4": {
+            "delay": 3,
+            "bandwidth": 500
+        }
+    },
+    "4": {
+        "0": {
+            "delay": 7,
+            "bandwidth": 100
+        },
+        "1": {
+            "delay": 3,
+            "bandwidth": 50
+        },
+        "2": {
+            "delay": 9,
+            "bandwidth": 1000
+        },
+        "3": {
+            "delay": 3,
+            "bandwidth": 500
+        }
+    }
+}

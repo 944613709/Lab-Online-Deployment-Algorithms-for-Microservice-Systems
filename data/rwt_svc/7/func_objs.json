@@ -1,0 +1,362 @@
+[
+    {
+        "index": 3,
+        "svcIndex": 0,
+        "input": 889,
+        "output": 1859
+    },
+    {
+        "index": 4,
+        "svcIndex": 0,
+        "input": 1398,
+        "output": 28
+    },
+    {
+        "index": 5,
+        "svcIndex": 0,
+        "input": 24,
+        "output": 101
+    },
+    {
+        "index": 6,
+        "svcIndex": 0,
+        "input": 1527,
+        "output": 10
+    },
+    {
+        "index": 7,
+        "svcIndex": 1,
+        "input": 1938,
+        "output": 966
+    },
+    {
+        "index": 8,
+        "svcIndex": 1,
+        "input": 1935,
+        "output": 53
+    },
+    {
+        "index": 27,
+        "svcIndex": 2,
+        "input": 147,
+        "output": 313
+    },
+    {
+        "index": 28,
+        "svcIndex": 2,
+        "input": 665,
+        "output": 717
+    },
+    {
+        "index": 29,
+        "svcIndex": 2,
+        "input": 249,
+        "output": 28
+    },
+    {
+        "index": 30,
+        "svcIndex": 2,
+        "input": 203,
+        "output": 218
+    },
+    {
+        "index": 31,
+        "svcIndex": 2,
+        "input": 130,
+        "output": 5
+    },
+    {
+        "index": 42,
+        "svcIndex": 3,
+        "input": 375,
+        "output": 710
+    },
+    {
+        "index": 43,
+        "svcIndex": 3,
+        "input": 968,
+        "output": 737
+    },
+    {
+        "index": 55,
+        "svcIndex": 4,
+        "input": 1886,
+        "output": 188
+    },
+    {
+        "index": 56,
+        "svcIndex": 4,
+        "input": 1327,
+        "output": 1448
+    },
+    {
+        "index": 57,
+        "svcIndex": 4,
+        "input": 887,
+        "output": 985
+    },
+    {
+        "index": 69,
+        "svcIndex": 5,
+        "input": 918,
+        "output": 1966
+    },
+    {
+        "index": 70,
+        "svcIndex": 5,
+        "input": 1591,
+        "output": 1390
+    },
+    {
+        "index": 71,
+        "svcIndex": 5,
+        "input": 1187,
+        "output": 1509
+    },
+    {
+        "index": 72,
+        "svcIndex": 5,
+        "input": 837,
+        "output": 1616
+    },
+    {
+        "index": 77,
+        "svcIndex": 6,
+        "input": 654,
+        "output": 1157
+    },
+    {
+        "index": 78,
+        "svcIndex": 7,
+        "input": 265,
+        "output": 1473
+    },
+    {
+        "index": 79,
+        "svcIndex": 7,
+        "input": 1207,
+        "output": 1652
+    },
+    {
+        "index": 80,
+        "svcIndex": 7,
+        "input": 1104,
+        "output": 1891
+    },
+    {
+        "index": 81,
+        "svcIndex": 7,
+        "input": 1650,
+        "output": 795
+    },
+    {
+        "index": 87,
+        "svcIndex": 8,
+        "input": 971,
+        "output": 1089
+    },
+    {
+        "index": 90,
+        "svcIndex": 9,
+        "input": 925,
+        "output": 480
+    },
+    {
+        "index": 91,
+        "svcIndex": 9,
+        "input": 629,
+        "output": 1262
+    },
+    {
+        "index": 92,
+        "svcIndex": 10,
+        "input": 464,
+        "output": 72
+    },
+    {
+        "index": 93,
+        "svcIndex": 10,
+        "input": 1785,
+        "output": 1849
+    },
+    {
+        "index": 94,
+        "svcIndex": 10,
+        "input": 1392,
+        "output": 1231
+    },
+    {
+        "index": 95,
+        "svcIndex": 10,
+        "input": 494,
+        "output": 1009
+    },
+    {
+        "index": 96,
+        "svcIndex": 10,
+        "input": 941,
+        "output": 1991
+    },
+    {
+        "index": 97,
+        "svcIndex": 11,
+        "input": 761,
+        "output": 1751
+    },
+    {
+        "index": 98,
+        "svcIndex": 11,
+        "input": 826,
+        "output": 660
+    },
+    {
+        "index": 99,
+        "svcIndex": 11,
+        "input": 436,
+        "output": 1328
+    },
+    {
+        "index": 100,
+        "svcIndex": 11,
+        "input": 1112,
+        "output": 853
+    },
+    {
+        "index": 101,
+        "svcIndex": 12,
+        "input": 241,
+        "output": 865
+    },
+    {
+        "index": 102,
+        "svcIndex": 12,
+        "input": 851,
+        "output": 179
+    },
+    {
+        "index": 103,
+        "svcIndex": 12,
+        "input": 269,
+        "output": 1496
+    },
+    {
+        "index": 104,
+        "svcIndex": 13,
+        "input": 488,
+        "output": 312
+    },
+    {
+        "index": 105,
+        "svcIndex": 13,
+        "input": 1514,
+        "output": 582
+    },
+    {
+        "index": 106,
+        "svcIndex": 13,
+        "input": 1264,
+        "output": 1514
+    },
+    {
+        "index": 107,
+        "svcIndex": 13,
+        "input": 1697,
+        "output": 792
+    },
+    {
+        "index": 108,
+        "svcIndex": 13,
+        "input": 1524,
+        "output": 635
+    },
+    {
+        "index": 111,
+        "svcIndex": 14,
+        "input": 1469,
+        "output": 171
+    },
+    {
+        "index": 112,
+        "svcIndex": 15,
+        "input": 79,
+        "output": 1362
+    },
+    {
+        "index": 113,
+        "svcIndex": 15,
+        "input": 1138,
+        "output": 1235
+    },
+    {
+        "index": 114,
+        "svcIndex": 15,
+        "input": 1082,
+        "output": 16
+    },
+    {
+        "index": 115,
+        "svcIndex": 15,
+        "input": 389,
+        "output": 727
+    },
+    {
+        "index": 116,
+        "svcIndex": 15,
+        "input": 219,
+        "output": 1420
+    },
+    {
+        "index": 121,
+        "svcIndex": 16,
+        "input": 355,
+        "output": 774
+    },
+    {
+        "index": 122,
+        "svcIndex": 16,
+        "input": 1756,
+        "output": 478
+    },
+    {
+        "index": 123,
+        "svcIndex": 16,
+        "input": 36,
+        "output": 1360
+    },
+    {
+        "index": 127,
+        "svcIndex": 17,
+        "input": 1090,
+        "output": 1963
+    },
+    {
+        "index": 128,
+        "svcIndex": 17,
+        "input": 564,
+        "output": 1075
+    },
+    {
+        "index": 129,
+        "svcIndex": 17,
+        "input": 1589,
+        "output": 512
+    },
+    {
+        "index": 140,
+        "svcIndex": 18,
+        "input": 1770,
+        "output": 1680
+    },
+    {
+        "index": 141,
+        "svcIndex": 18,
+        "input": 185,
+        "output": 120
+    },
+    {
+        "index": 142,
+        "svcIndex": 18,
+        "input": 47,
+        "output": 826
+    }
+]
